@@ -1,3 +1,11 @@
 body {
     height: auto;
 }
+
+.carousel-item img {
+    height: 44.2rem;
+}
+
+.text-dark-o {
+    color: rgb(0, 0, 0);
+}
