@@ -16,8 +16,9 @@ form button {
     background-color: blue;
     color: white;
     width: 60px;
-    border-radius: 50px;
+    border-radius: 20px;
     width: 450px;
+    border-color: skyblue;
 }
 
 body {
